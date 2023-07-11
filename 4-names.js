@@ -1,5 +1,3 @@
-
-
 //local
 const secret='Super SECRET'
 //share
@@ -8,3 +6,4 @@ const john="John"
 
 
 console.log(module)
+module.exports={peter,john}

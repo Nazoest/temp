@@ -34,3 +34,5 @@ app.get('/about',(req,res)=>{
     next();
   });
   
+console.log(__dirname,__filename)
+
